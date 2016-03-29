@@ -1,5 +1,6 @@
 # knx-controller
-knx-controller module (based on node-eibd).
+Clone knx-controller module (based on node-eibd).
+Based on work of Marco Piraccini.
 
 Tested using node v4.1.1 on a Raspberry PI 2
 

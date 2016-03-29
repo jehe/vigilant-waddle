@@ -1,7 +1,7 @@
 {
-  "name": "knx-controller",
+  "name": "clone knx-controller",
   "version": "0.0.1",
-  "author": "Marco Piraccini <marco.piraccini@gmail.com>",
+  "author": "jehe",
   "description": "Knx Home Controllers based on node-eibd",
   "scripts": {
     "mocha": "mocha ./test",
