@@ -1,5 +1,5 @@
 {
-  "name": "clone knx-controller",
+  "name": "clone-knx-controller",
   "version": "0.0.1",
   "author": "jehe",
   "description": "Knx Home Controllers based on node-eibd",
