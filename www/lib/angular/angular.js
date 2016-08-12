@@ -18497,7 +18497,7 @@ function deepCompare(actual, expected, comparator, matchAgainstAnyProp, dontMatc
       } else {
         return comparator(actual, expected);
       }
-      break;
+      //break;
     case 'function':
       return false;
     default:

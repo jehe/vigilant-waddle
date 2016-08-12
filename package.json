@@ -1,5 +1,5 @@
 {
-  "name": "clone knx-controller",
+  "name": "vigilant-waddle",
   "version": "0.0.1",
   "author": "jehe",
   "description": "Knx Home Controllers based on node-eibd",
@@ -21,6 +21,7 @@
     "inert": "^3.0.2",
     "influx": "^4.0.1",
     "lodash": "^3.10.1",
+    "mocha": "^3.0.2",
     "moment": "^2.10.6",
     "socket.io": "^1.3.6"
   },
@@ -28,7 +29,7 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.3.0",
-    "jshint": "^2.8.0",
-    "mocha": "^2.3.3"
+    "jshint": "^2.9.2",
+    "mocha": "^3.0.2"
   }
 }

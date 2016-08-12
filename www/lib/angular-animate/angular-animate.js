@@ -130,7 +130,7 @@ function stripCommentsFromElement(element) {
     switch (element.length) {
       case 0:
         return [];
-        break;
+        //break;
 
       case 1:
         // there is no point of stripping anything if the element
@@ -143,7 +143,7 @@ function stripCommentsFromElement(element) {
 
       default:
         return jqLite(extractElementNode(element));
-        break;
+        //break;
     }
   }
 

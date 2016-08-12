@@ -1,0 +1,2 @@
+C:\Users\Jean\Source\Repos\vigilant-waddle\obj\Debug\NodejsApp1.njsprojResolveAssemblyReference.cache
+C:\Users\Jean\Source\Repos\vigilant-waddle\bin\Microsoft.NodejsTools.WebRole.dll
