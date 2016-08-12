@@ -8,7 +8,7 @@ var log = bunyan.createLogger(logConfig);
 
 // TODO: load configurations from config
 // Add the config file position using ENV.
-var knxHost = '192.168.69.172';
+var knxHost = '192.168.2.100';
 var knxPort = 6720;
 var httpPort = 4000;
 
