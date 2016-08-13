@@ -1,3 +1,3 @@
 angular.module('{$ doc.moduleName $}', [])
 
-.value('{$ doc.serviceName $}', {$ doc.value | json $});
+//.value('{$ doc.serviceName $}', {$ doc.value | json $});
