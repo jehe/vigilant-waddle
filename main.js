@@ -4,6 +4,7 @@ var Hapi = require('hapi');
 var server = new Hapi.Server();
 var fs = require('fs');
 var logConfig = require('./config/logger-config');
+debugger;
 var log = bunyan.createLogger(logConfig);
 
 // TODO: load configurations from config
